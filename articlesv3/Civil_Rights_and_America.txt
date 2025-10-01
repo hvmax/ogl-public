@@ -1,0 +1,45 @@
+### Civil Rights and America
+
+16 October 2020|Diversity & Inclusion, Leadership
+AtOn Global Leadership, we seek to provide a variety of analyses about leadership in the global economy. Our lens is always a mixture of political economic analysis combined with boots-on-the-ground experience. We hope to deploy global survey research to develop a deeper understanding of geopolitics and the global economy. This post explores what survey data reveals about the American public's impressions of the importance of civil rights by the two major parties.– The OGL Editorial Team
+What do ordinary Americans think about the state of civil and human rights in their country? How bad, or good, do they think things are, and why does it matter?
+My colleagueHoward Lavineand I surveyed U.S. public opinion in fall 2018 with the help ofYouGov, a leading survey firm. We recruited a nationally representative sample of 2,000 adults who answered online questions. YouGov’s team contacted each respondent twice, interviewing in two waves of 22 and 24 minutes, on average. The median response rate for the two waves was 86%. To achieve a nationally representative sample, YouGov weighted the 2,000 strong sample by gender, age, race, and education.
+Splitting these 2,000 respondents into two equal parts, we asked the first about their perception of respect for “human rights” in the U.S. and asked the second about their perception of respect for “civil rights.” We found no meaningful difference between the two, and thus we are reporting on both combined here. For this question, the confidence interval was +/- 1.4%.
+Table 1: How Democrats and Republicans feel about citizens rights.
+Table 1: How Democrats and Republicans feel about citizens rights.
+AsTable 1indicates, most (61%) of the sample - represented by the green bars – said that human/civil rights were reasonably well respected in this country. These respondents chose the top two response categories, telling You Gov that civil/human rights in the U.S. were either respected “some” (38%) or “a lot” (23%). The remaining 39% said that rights were respected either “a little” (27%) or “not at all” (12%).
+We rescaled the perceived level of respect for human rights to a 0-1 scale for statistical purposes, in which 0 = “rights are respected not at all,” and 1 = “rights are respected a lot.” The average for the U.S. population as a whole was 0.57, or just over the midpoint. In other words, our nationally representative sample indicated a slightly positive estimate of the state of human and civil rights in their country.
+These numbers obscure important differences between Republicans and Democrats, however. AsTable 1indicates, 40% of self-identified Republicans said rights were respected “a lot” in the U.S., compared to only 12% of Democrats. And 17% of Democratic respondents said rights were respected “not at all,” compared to 6% of Republicans.
+Put another way, 77% of Republicans believe that rights are reasonably well respected (“a lot” or “some”), compared to only 52% of Democrats. The average score for Republicans on the 0-1 scale was 0.70 (recall that 1 = human/civil rights are respected “a lot”), compared to 0.49 for Democrats, a 30% decrease.
+Republicans are far more bullish on human and civil rights conditions in today’s America than Democrats, likely due to different views on the state of respect for human and civil rights on issues of race, gender, police behavior, treatment of immigrants and refugees, and attitudes toward the importance of providing basic economic, social, and cultural goods to the entire U.S. population.
+Respect for Human and Civil Rights
+Why does it matter what respondents think about the extent of respect for human and civil rights? It matters because these views are highly correlated with a number of other important opinions.
+To learn more, we ran a number of statistical models in which “perceived respect for human rights” was the causal variable of interest, while the variable we were seeking to explain (the “dependent variable,” in stats-speak) varied from model to model, but was typically attitudes towards a policy, actor, or organization. As most statisticians do, we controlled for respondents’ political affiliation, sex, age, education, the extent to which they felt financially secure, race, religion, place of residence (urban, suburb, town, or rural) and region of the country (South, Northeast, Midwest, and West).
+Controlling for all these factors, respondents who thought human rights were respected “a lot” in the U.S. held quite different attitudes towards key policies than those who thought rights were respected “not at all.” They were:
+- 33% less supportive of aggressively prosecuting police suspected of using excessive force;
+- 28% less opposed to torturing individuals suspected of committing an act of terrorism;
+- 19% less favorable towards the provision of health insurance for all;
+- 13% less favorable towards a woman’s right to choose;
+- 9 % less favorable towards increased infrastructure spending;
+- 5% less supportive of government efforts to promote criminal justice reforms.
+Respondents who thought rights were respected “a lot” also had different ideas about American leaders, sectors, and organizations than those who thought they were respected “not at all.” They were:
+- 300% more trusting of Donald J. Trump;
+- Felt 55% more warmly towards the alt-right
+- Felt 41% more warmly towards the National Rifle Association;
+- Felt 39% more warmly towards Fox News;
+- Felt 20% less warmly towards Black Lives Matter;
+- Felt 11% less warmly towards professors;
+- Felt 10% less warmly towards the NAACP
+- Were 7% less trusting of human or civil rights organizations;
+- Felt 6% less warmly towards Planned Parenthood;
+- Felt 6% less warmly towards the United Nations.
+In other words, those who think human and civil rights in the U.S. are respected tend to be located on the political right when it comes to their attitudes towards key policies and organizations.
+What Determines the Extent to Which Americans Think Human & Civil Rights are Respected?
+To explore the causes of these perceptions of respect for human and civil rights in the U.S., we ran another statistical model in which the level of perceived respect was the outcome of interest. The results indicate that:
+- Respondents who felt the most financially secure were 46% more willing to believe that human rights were respected than those who felt the least financially secure;
+- Respondents who scored at the top of a “white ethnocentrism” index, which averaged responses to four questions about race, thought rights in this country were 37% more respected than those who scored at index’s bottom;
+- Respondents who identified most strongly with the Republican Party believed rights were respected 27% more than those respondents who identified most strongly with the Democratic Party;
+- Male respondents thought rights were respected 11% more than women.
+Importantly, a number of commonly cited factors such as education, race, and religious affiliation did not have a statistically significant impact on estimates of the extent to which rights in this country are respected. Personal finances, views on race relations, political partisanship, and gender explained most of the results.
+Popular estimates of how bad, or good, human and civil rights conditions are in the U.S. vary by political views, racial views, family finances, and gender. Americans are already voting for their next president. Underlying their choice is an implicit sense of how well, or poorly, rights are respected in this country today.
+James Ron, PhD, is co-founder and co-owner of Azimuth Social Research, a boutique research firm. He has specialized in surveys across the world and is the author of several books and dozens of articles. For more information, please visitwww.jamesron.com.

@@ -1,0 +1,17 @@
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+pandas
+numpy
+nltk
+sentence-transformers
+langchain
+langchain-community
+langchain-groq
+langchain-text-splitters
+faiss-cpu
+unstructured
+torch
+chromadb
+FlagEmbedding
